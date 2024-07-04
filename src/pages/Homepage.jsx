@@ -3,15 +3,16 @@ import Home from '../components/HeroSection'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Contact from '../components/Contact'
+import Timer from '../components/Timer.jsx'
 
 const Homepage = () => {
   return (
     <div>
-        <Navbar/>
+        {/* <Navbar/>
         <Home/>
         <Contact/>
-        <Footer/>
-        
+        <Footer/> */}
+     <Timer/>
     </div>
   )
 }

@@ -19,7 +19,6 @@ const Footer = () => {
           Instagram
         </a>
       </div>
-      <div>&copy; 2024 GizmoHub. All rights reserved.</div>
     </footer>
   );
 };
